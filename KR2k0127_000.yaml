@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0127/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0127_WYG_000-1a, image: WYG0592/WYG0592-0735a.png}
+body:
+  text: 益部談資地理類八雜記之屬提要臣等謹案益部談資三卷明䕫州通判何宇度撰所紀皆四川山川物産及古今軼事分上中下三卷以體例不似圖經故署曰談資蓋自居于說部也輿地之籍原所以記州郡封略道里厄塞土田戶口之數以便考核而先賢風俗等傳前人往往著為成書則博採遺聞亦未嘗不可以資談助蜀中地志以揚雄蜀王本紀譙周三巴記李克益州記為最古其書雖不盡傳而大要亦多雜載事蹟取備掌故至自唐以後見於列史藝文志者如杜光庭續成都記趙抃成都古今集記及宋代所修潼川臨邛忠州墊江䕫州諸圖志今俱散佚無存則掇拾搜羅正考訂者所不廢是書旁採羣籍雖未能精核無遺然尚不至於蕪蔓其後曹學佺作蜀中名勝記徴托較博而稍涉泛濫不若此本之雅潔在明人著述中猶可稱簡而有要者原本有李維禎跋語亦極推為善本云乾隆四十三年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:99873e7865b057d280f101ccde0aa445575e59526881acfdc170a00637e08809
+metadata:
+  title: 益部談資
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:46:39.515932'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0127/KR2k0127_000.txt
+hash: sha256:eda7260e94ea2de080c85af9ab4d1e8a33fc05925a0ed278672d33dbb324690a
